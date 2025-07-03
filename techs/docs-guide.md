@@ -54,14 +54,24 @@ Mục tiêu là xây dựng một **phần mềm quản lý dự án tổng hợ
 - Deployment và monitoring strategies
 - **Đối tượng:** Software architects, senior developers, DevOps engineers
 
+### 📋 [05-oppm-theory-integration.md](./05-oppm-theory-integration.md)
+**Lý Thuyết OPPM và Tích Hợp Hệ Thống**
+- One-Page Project Manager methodology
+- Templates cho Software Development và Construction
+- Tích hợp OPPM vào phần mềm quản lý dự án
+- AI-powered generation và real-time updates
+- Export options và collaboration features
+- **Đối tượng:** Project managers, product managers, stakeholders
+
 ## Cách Sử Dụng Tài Liệu
 
 ### 🎯 Cho Project Managers
 **Đọc theo thứ tự:**
 1. Executive Summary - Overview và business context
 2. Industry-specific documents - Hiểu domain challenges
-3. Software Requirements - Functional specifications
-4. Implementation roadmap từ Executive Summary
+3. OPPM Theory - One-Page Project Manager methodology
+4. Software Requirements - Functional specifications
+5. Implementation roadmap từ Executive Summary
 
 ### 👨‍💼 Cho Business Stakeholders  
 **Focus vào:**
@@ -94,6 +104,7 @@ Mục tiêu là xây dựng một **phần mềm quản lý dự án tổng hợ
 ### 🔧 **Technical Architecture**
 - Microservices cho scalability và maintainability
 - Real-time collaboration với WebSocket technology
+- OPPM (One-Page Project Manager) integration
 - AI integration cho predictive analytics
 - Mobile-first design với offline capabilities
 
